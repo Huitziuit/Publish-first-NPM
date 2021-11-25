@@ -1,11 +1,23 @@
 {
-  "name": "packages",
+  "name": "hello-word-huitziuit-npm",
   "version": "1.0.0",
-  "description": "example",
+  "description": "example dummy hello",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Erick Huitziuit",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Huitziuit/Publish-first-NPM.git"
+  },
+  "keywords": [
+    "hello",
+    "dummy"
+  ],
+  "bugs": {
+    "url": "https://github.com/Huitziuit/Publish-first-NPM/issues"
+  },
+  "homepage": "https://github.com/Huitziuit/Publish-first-NPM#readme"
 }
